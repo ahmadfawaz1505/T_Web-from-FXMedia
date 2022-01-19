@@ -1,0 +1,8 @@
+Fitur:
+- Responsive using Bootstrap and custom media query
+- Banner carousel using OwlCarousel
+- 4 banner: 2 are videos and its autoplaying on the banner and auto off on slide to next slider. The other two are just images
+- The main menu, on scrolldown become sticky
+- there is a tabs
+- Search button by default just icon, on click showing the field
+- "Read more" On click, will show the next same two columns, just use dummy text
